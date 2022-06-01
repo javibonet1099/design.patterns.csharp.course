@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1FISZQMPO0scfjgHoJJGS4f4tCeAjKrFrH3KLtQiCGvFUM9BGcGl9K6deQPVDcI+clhZWQZ95DUM+WETtjnjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaboes\\Development\\design.patterns.csharp.course\\design.patterns.csharp.course\\design.patterns.csharp.course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaboes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

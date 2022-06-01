@@ -1,0 +1,16 @@
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.csproj.AssemblyReference.cache
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.AssemblyInfoInputs.cache
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.AssemblyInfo.cs
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.csproj.CoreCompileInputs.cache
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\SimpleDIDemo.exe
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\SimpleDIDemo.deps.json
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\SimpleDIDemo.runtimeconfig.json
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\SimpleDIDemo.runtimeconfig.dev.json
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\SimpleDIDemo.dll
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\ref\SimpleDIDemo.dll
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\bin\Debug\net5.0\SimpleDIDemo.pdb
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.dll
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\ref\SimpleDIDemo.dll
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.pdb
+C:\Users\jaboes\Development\design.patterns.csharp.course\SimpleDIDemo\obj\Debug\net5.0\SimpleDIDemo.genruntimeconfig.cache
